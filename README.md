@@ -17,7 +17,7 @@ https://donna-read.github.io/massage-by-donna-read
 
 # Initial Setup
 
-* `rbenv install 2.3.1`
+* `rbenv install 2.7.1`
 * `gem install jekyll`
 * `gem install bundler`
 * `bundle install`
